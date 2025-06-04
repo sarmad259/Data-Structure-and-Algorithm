@@ -31,8 +31,8 @@ Feel free to explore individual files or folders to see my solutions. Each file 
 - Sorting Algorithms: Quick Sort, Merge Sort, Bubble Sort, etc.  
 - Searching Algorithms: Binary Search, Linear Search  
 - Dynamic Programming and Recursion examples  
-**👀Note : There are many more but they are in pdf file format--
 ---
+## 👀Note : There are many more but they are in pdf file format
 
 ## Contact
 
